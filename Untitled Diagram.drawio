@@ -1,1 +1,478 @@
-<mxfile host="app.diagrams.net" modified="2021-07-03T11:35:31.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="VF57S5WstfxhvfuX0td_" version="14.8.4" type="github"><diagram id="ZtEAWdGWHnYqfwoxlRvK" name="Page-1">7V1bk6I4FP41VM1MVU8BISCPatu7Dzu1U9sPO/PUFTECIxAnoq376zfhDkq3l1aipl+E3Ag5J993knNIK2AYrv+gaO59IxMcKLo6WSvgUdF1XbVM9sNTNlmKZalpikv9SZqmlQnP/n84S8yLLf0JXtQKxoQEsT+vJzokirAT19IQpeS1XmxKgvpT58jFWwnPDgq2U//1J7GXptqqWqb/iX3Xy59s5jlj5MxcSpZR9jxFB0/aU380SrNDlLeVlV94aEJeK0lgpIAhJSROr8L1EAd8cPNhS+s9teQW/aY4ivep4H6H/4yw87yio5npPUd/f5vjB5j1Ld7k44EnbHiyW0Jjj7gkQsGoTB0k74x5qyq7K8v8RcicJWos8ReO400ma7SMCUvy4jDIcgM0xsGgGL4hCQhNHp4PIBgsYkpmuJJjQGtgP7KcKYniSrr2CCC0WLqzpKukU/wJ6VvxV2kdrCxpQZbUwW+MUK6TiLo4fqOcUYiUzRVMQhzTDatHcYBif1XvB8p01i3KFVW/E5/1UFfzCdbLtGeTzxpYbyLtV1arlD67qHSjTEp04gD9yDq8QsES52puBjGX0BxFNc0xfy+5Kg+cVDh9/vLu+BNkTbB3YI9Xa5ef+TWXlMol+jBFoR9s0mqsLRTOk0wADPY79yN3iiKXP8/Zyi0a3coJUBSzqh72D60Z+g4lCzLlotigpIG963o+Ra4fEf5MFC04xo2PfHRWf4GpPz2giVcc/V6iaMNfO2mO/R74DjhY4dh3UHsd3reHrGdVSS6Sac/lqJnzdZFXwuVDQ0N0CItGG9efS7ViVy7/9UM2tn7sYTT5ihZhro5Mu1ONTEttwVoJWhwfXj0/xs9zlMz8V8ZsdYBC1MnAC/LeT/0gqEBOv/fYfxweBVLZbMI0xuu3kWkbSbIKsA4IOdu+ltyl5wzlVXgrL7cLemqgcTBCGG+M9ZEEgdd+/KNy/ZM39RVmd4/rrOXkZpPfvMtbbIDp5kdenN9U2uW3ZcPJXd7yVdGVsSddafAj+KpPKdpUCsw5Dy3a6QyC3XT2tGf5ho3DLtIefCznWUcYRTV51sFmMcOx450wG47U2zbVe0NZW4CuC/0EJ+rnSaBmSLNHmj1imT2ZzfOSzPFPn+/O7gGqaIaPujXYF1g7H2UaFQRScsbPKrncguFjXmidfpLOmJJXJK8IyStfnbtjlMZKutiR7o5R2nfb+DDshIeGjrAl2HpbyMoIKv2RYveVkaEMbKVnK6MnZTBUesM8a6SMLKU3UgZqRQ/Sp7boARv4uCHswHcjdu0wAWAmsAEXD1P6oJ9lhP5kktIgZl1G46QprhfZupG1CwcK5HLnzJe+VrqGqilIRCJ8Xt3QTfiucmhgh3LoZ1MO/XTlUHcrR49LvQe4BtiG0u9JDeCCNN61N82Lyh9I20HaDkLZDq+Ucf8LxWzWs7m7wozd8R2uTKFVR4oH0LkhASVWSKwQECuCCZ3R4F5xounL78GOcaIITZGejo/3dGi9PXekNLvLLSndFkwHsg3OclPzZyXnsA1O9ab1pg1uLqM3eTeljSFtDEFsDL6XySwMoMvAIF03cnLvzrroicksx7nObsEisfdlFqtTZrEls0hmEYpZ0nVrGntxd8QCTNGYBWhbo311zCIkQxRf4LzHEOkWZ2drVvlZgmQIsRii9ILc5eLDaHCECbvmCH37u4Sr44hjA/fE5Bb9OvZD2+MsJLdIbulu9ZFMcRmmV3jRumOWdu+6jMQ6RyRWw29q7IivuGgolt4exn2qAshgzF0bEHrDuFS3HecXVQAg2heC976zrVv77luYXdqWhin15kr1ptep3ojmSbtPHeh0XQqBYDogsWNPvTE6jdOBN7APduXy1zuV/zFHfEn5f6T8Oz3KAt6AzXnl8u/0k3N4A2vVK5f/qUctnbZZlXVT+jOkP0MQfwaP030ZL9jEidnEC+/wUyCz8XGxACFVaitMZHvaTjEUpTxB+ldNUqfIqaNJY+pzvdia1cNczesTlifvnovNCvVpxnNbZ1DSaDk5mhNha1P+PbTcOWVaYtN5fMjYj1oVfr/d/puZB5bW2NnvPGwEtLv/9/Xt7FYA7tIZDBXb5F6+/pNia9K3k0gcvqsB8KK+HdH2S24pBgiAPW3mk79ASKoeejypBnfDUdvxpJbxZvnzHE8K5EEg0qAXy6AvbXkZn2SZnZsw54tPkuEpu+KTmkas3XF8EpDHTEqGEIshQuR4KUu8xC98LXyHmz4a2Dr9vmumkGc4SKAQCyiSvWHHmznzpYSIyoq0O4yQX+NLjBAQI0IcfqpaFaz0l3C8mN8jaDQ+kCiOrq2ChgUvCBqG/EBbgoaAoDGjAf9lkOHMJHqkuUbjH6uAHR/YgV1HnZtnQ492H5xED4keXaJHcnStBI4UOJreL3VP4Dif2SFdYxI4xAKOFWEay9SW48cET5cxf6hEkDRXb+x2WHrnCCL/86NEELEQpBYt6+KFBI/MedJwu/a6Bw/5bzckeAgIHi6b2F4NNr7wV71L2LDsOmrYnS9aoGgf9x/xDxjEDDbd9x8pdHu4A5QONskaArJGet7cPR5m2ojo1NQzOuHZLSV88MsQcc7W38gE8xL/Aw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-04T06:57:21.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="KcvEuEmMhv62skX1zl7n" version="14.8.4" type="github" pages="3">
+  <diagram id="ZtEAWdGWHnYqfwoxlRvK" name="Page-1">
+    <mxGraphModel dx="1730" dy="2575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" background="#F1FAEE" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gP5REecSvrEk6hSnOMpe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;curved=1;" parent="1" source="gP5REecSvrEk6hSnOMpe-1" target="gP5REecSvrEk6hSnOMpe-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-1" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;imginithead.asm&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="50" y="70" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;curved=1;" parent="1" source="gP5REecSvrEk6hSnOMpe-4" target="gP5REecSvrEk6hSnOMpe-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="105" />
+              <mxPoint x="530" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" source="gP5REecSvrEk6hSnOMpe-4" target="gP5REecSvrEk6hSnOMpe-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-4" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;inithead_entry()&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="300" y="70" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;curved=1;" parent="1" source="gP5REecSvrEk6hSnOMpe-6" target="gP5REecSvrEk6hSnOMpe-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-6" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;inithead.c&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="50" y="210" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-11" value="&lt;font style=&quot;font-size: 22px&quot;&gt;定义，实现&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="265" y="210" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-12" value="&lt;font style=&quot;font-size: 20px&quot;&gt;调用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="240" y="70" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-13" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;write_realintsvefile()&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="570" y="-30" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-15" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;write_ldrkrlfile()&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="580" y="185" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-20" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" source="gP5REecSvrEk6hSnOMpe-18" target="gP5REecSvrEk6hSnOMpe-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" source="gP5REecSvrEk6hSnOMpe-18" target="gP5REecSvrEk6hSnOMpe-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-18" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;initldr32.asm&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="50" y="420" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" source="gP5REecSvrEk6hSnOMpe-19" target="gP5REecSvrEk6hSnOMpe-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-19" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;ldrkrl_entry&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="360" y="420" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" source="gP5REecSvrEk6hSnOMpe-21" target="gP5REecSvrEk6hSnOMpe-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-21" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;realintsve.asm&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="460" y="650" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" source="gP5REecSvrEk6hSnOMpe-22" target="gP5REecSvrEk6hSnOMpe-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-22" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;ldrkrlentry.c&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="50" y="580" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-25" value="&lt;font style=&quot;font-size: 20px&quot;&gt;调用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="280" y="430" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-26" value="&lt;font style=&quot;font-size: 20px&quot;&gt;实现&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="320" y="605" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-37" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" source="gP5REecSvrEk6hSnOMpe-27" target="gP5REecSvrEk6hSnOMpe-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-46" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" source="gP5REecSvrEk6hSnOMpe-27" target="gP5REecSvrEk6hSnOMpe-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-48" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" source="gP5REecSvrEk6hSnOMpe-27" target="gP5REecSvrEk6hSnOMpe-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-53" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" source="gP5REecSvrEk6hSnOMpe-27" target="gP5REecSvrEk6hSnOMpe-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-54" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" source="gP5REecSvrEk6hSnOMpe-27" target="gP5REecSvrEk6hSnOMpe-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-55" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" source="gP5REecSvrEk6hSnOMpe-27" target="gP5REecSvrEk6hSnOMpe-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-56" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" source="gP5REecSvrEk6hSnOMpe-27" target="gP5REecSvrEk6hSnOMpe-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-57" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" source="gP5REecSvrEk6hSnOMpe-27" target="gP5REecSvrEk6hSnOMpe-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-27" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;init_bstartparm()&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="640" y="420" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-30" value="&lt;font color=&quot;#333333&quot; face=&quot;pingfang sc, lantinghei sc, microsoft yahei, hiragino sans gb, microsoft sans serif, wenquanyi micro hei, helvetica, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;initldrsve.bin&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="710" y="650" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-32" value="&lt;font style=&quot;font-size: 16px&quot;&gt;编译&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="655" y="650" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" source="gP5REecSvrEk6hSnOMpe-33" target="gP5REecSvrEk6hSnOMpe-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="650" />
+              <mxPoint x="740" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-33" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;bstartparm.c&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="50" y="760" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-35" value="&lt;font style=&quot;font-size: 20px&quot;&gt;实现&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="210" y="690" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-36" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;machbstart_t_init()&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="10" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-38" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;init_chkcpu()&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="150" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-39" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;init_mem(machbstart_t *mbsp)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="1380" y="240" width="275" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-41" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;init_krlinitstack(machbstart_t *mbsp)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="380" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-42" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;init_krlfile(machbstart_t *mbsp)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="600" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-43" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;void init_defutfont(machbstart_t *mbsp)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="1230" y="720" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-44" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;init_bstartpages(machbstart_t *mbsp)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="820" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-45" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;init_graph(machbstart_t* mbsp)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="790" y="900" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-58" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" source="gP5REecSvrEk6hSnOMpe-38" target="gP5REecSvrEk6hSnOMpe-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gP5REecSvrEk6hSnOMpe-59" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;init_entry.asm&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="50" y="1050" width="200" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vsIQm2Bi4XkIeni7yjUE" name="Page-2">
+    <mxGraphModel dx="1483" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#F1FAEE" math="0" shadow="0">
+      <root>
+        <mxCell id="8XG_OTGlOHtuuFJ2dJQR-0" />
+        <mxCell id="8XG_OTGlOHtuuFJ2dJQR-1" parent="8XG_OTGlOHtuuFJ2dJQR-0" />
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="8XG_OTGlOHtuuFJ2dJQR-1" source="E50Phzk8usaZ6N8w5Hl--0" target="E50Phzk8usaZ6N8w5Hl--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--39" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="8XG_OTGlOHtuuFJ2dJQR-1" source="E50Phzk8usaZ6N8w5Hl--0" target="E50Phzk8usaZ6N8w5Hl--38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--0" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;hal_start&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="80" y="230" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;curved=1;" edge="1" parent="8XG_OTGlOHtuuFJ2dJQR-1" source="E50Phzk8usaZ6N8w5Hl--1" target="E50Phzk8usaZ6N8w5Hl--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--1" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;halinit.c&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="80" y="440" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="8XG_OTGlOHtuuFJ2dJQR-1" source="E50Phzk8usaZ6N8w5Hl--2" target="E50Phzk8usaZ6N8w5Hl--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="8XG_OTGlOHtuuFJ2dJQR-1" source="E50Phzk8usaZ6N8w5Hl--2" target="E50Phzk8usaZ6N8w5Hl--18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--35" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="8XG_OTGlOHtuuFJ2dJQR-1" source="E50Phzk8usaZ6N8w5Hl--2" target="E50Phzk8usaZ6N8w5Hl--26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="340" />
+              <mxPoint x="700" y="340" />
+              <mxPoint x="700" y="660" />
+              <mxPoint x="630" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--2" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;init_hal()&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="460" y="230" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--4" value="&lt;font style=&quot;font-size: 22px&quot;&gt;实现&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="350" y="400" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--6" value="&lt;font style=&quot;font-size: 20px&quot;&gt;调用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="330" y="240" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="8XG_OTGlOHtuuFJ2dJQR-1" source="E50Phzk8usaZ6N8w5Hl--8" target="E50Phzk8usaZ6N8w5Hl--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--8" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;halplatform.c&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="80" y="660" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--10" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;init_halplaltform&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="460" y="460" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--12" value="&lt;font style=&quot;font-size: 22px&quot;&gt;实现&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="340" y="660" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--14" value="&lt;font style=&quot;font-size: 20px&quot;&gt;调用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="490" y="380" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--15" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;halglobal.c&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="80" y="1050" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--19" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="8XG_OTGlOHtuuFJ2dJQR-1" source="E50Phzk8usaZ6N8w5Hl--16" target="E50Phzk8usaZ6N8w5Hl--18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--16" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;halmm.c&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="80" y="90" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--18" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;init_halmm&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="460" y="90" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--20" value="&lt;font style=&quot;font-size: 22px&quot;&gt;实现&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="320" y="140" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--22" value="&lt;font style=&quot;font-size: 20px&quot;&gt;调用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="560" y="210" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--23" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;kernel.asm&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="80" y="1160" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="8XG_OTGlOHtuuFJ2dJQR-1" source="E50Phzk8usaZ6N8w5Hl--24" target="E50Phzk8usaZ6N8w5Hl--28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--24" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;halsgdidt.c&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="70" y="890" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="8XG_OTGlOHtuuFJ2dJQR-1" source="E50Phzk8usaZ6N8w5Hl--25" target="E50Phzk8usaZ6N8w5Hl--26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--25" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;halintupt.c&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="70" y="750" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="8XG_OTGlOHtuuFJ2dJQR-1" source="E50Phzk8usaZ6N8w5Hl--26" target="E50Phzk8usaZ6N8w5Hl--28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--26" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;init_halintupt()&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="530" y="750" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--28" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;init_idt_descriptor()&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="420" y="890" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--31" value="&lt;font style=&quot;font-size: 22px&quot;&gt;实现&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="360" y="750" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--32" value="&lt;font style=&quot;font-size: 22px&quot;&gt;实现&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="320" y="900" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--33" value="&lt;font style=&quot;font-size: 20px&quot;&gt;调用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="570" y="860" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--36" value="&lt;font style=&quot;font-size: 20px&quot;&gt;调用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="690" y="640" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--38" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;init_krl()&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="780" y="150" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E50Phzk8usaZ6N8w5Hl--40" value="&lt;font style=&quot;font-size: 20px&quot;&gt;调用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" vertex="1" parent="8XG_OTGlOHtuuFJ2dJQR-1">
+          <mxGeometry x="670" y="170" width="60" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nh52wlLRu8EwA0PmtIFk" name="Page-3">
+    <mxGraphModel dx="1483" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" background="#F1FAEE" math="0" shadow="0">
+      <root>
+        <mxCell id="xzJysl5ABUnKm8ckFdPG-0" />
+        <mxCell id="xzJysl5ABUnKm8ckFdPG-1" parent="xzJysl5ABUnKm8ckFdPG-0" />
+        <mxCell id="pdc_onV0V6zntlovhrwn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;curved=1;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="O69sdc34Z47oviyqiFAx-0" target="pdc_onV0V6zntlovhrwn-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O69sdc34Z47oviyqiFAx-0" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;setup.bin&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="90" y="320" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-4" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="pdc_onV0V6zntlovhrwn-0" target="pdc_onV0V6zntlovhrwn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="pdc_onV0V6zntlovhrwn-0" target="pdc_onV0V6zntlovhrwn-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-0" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;_start&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="360" y="320" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-5" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="pdc_onV0V6zntlovhrwn-1" target="pdc_onV0V6zntlovhrwn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-1" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;vmlinux.bin&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="640" y="320" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-36" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="pdc_onV0V6zntlovhrwn-2" target="pdc_onV0V6zntlovhrwn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-2" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;startup_32&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="890" y="320" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-35" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="pdc_onV0V6zntlovhrwn-7" target="pdc_onV0V6zntlovhrwn-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-7" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;startup_64&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="890" y="460" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="pdc_onV0V6zntlovhrwn-10" target="pdc_onV0V6zntlovhrwn-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-10" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;head.S&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="90" y="120" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;定义&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="360" y="200" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-21" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="pdc_onV0V6zntlovhrwn-14" target="pdc_onV0V6zntlovhrwn-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-14" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;main&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="360" y="520" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-18" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="pdc_onV0V6zntlovhrwn-17" target="pdc_onV0V6zntlovhrwn-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-17" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;main.c&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="90" y="520" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-19" value="&lt;font style=&quot;font-size: 18px&quot;&gt;定义&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="300" y="520" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="pdc_onV0V6zntlovhrwn-20" target="pdc_onV0V6zntlovhrwn-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-20" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;go_to_protected_mode()&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="360" y="690" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-23" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="pdc_onV0V6zntlovhrwn-22" target="pdc_onV0V6zntlovhrwn-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-22" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;pm.c&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="90" y="690" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-24" value="&lt;font style=&quot;font-size: 18px&quot;&gt;定义&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="300" y="680" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-26" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;protected_mode_jump&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="360" y="840" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="pdc_onV0V6zntlovhrwn-27" target="pdc_onV0V6zntlovhrwn-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-27" value="&lt;font color=&quot;#333333&quot; face=&quot;pingfang sc, lantinghei sc, microsoft yahei, hiragino sans gb, microsoft sans serif, wenquanyi micro hei, helvetica, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;pmjump.S&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="90" y="840" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-29" value="&lt;font style=&quot;font-size: 18px&quot;&gt;定义&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="310" y="840" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="pdc_onV0V6zntlovhrwn-31" target="pdc_onV0V6zntlovhrwn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-31" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;head64.S&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="640" y="540" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-33" value="&lt;font style=&quot;font-size: 18px&quot;&gt;定义&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="900" y="580" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-42" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="pdc_onV0V6zntlovhrwn-34" target="pdc_onV0V6zntlovhrwn-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-34" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;extract_kernel&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="890" y="670" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-39" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="pdc_onV0V6zntlovhrwn-38" target="pdc_onV0V6zntlovhrwn-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-38" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;misc.c&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="620" y="670" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-40" value="&lt;font style=&quot;font-size: 18px&quot;&gt;定义&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="840" y="670" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-44" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="pdc_onV0V6zntlovhrwn-41" target="pdc_onV0V6zntlovhrwn-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-41" value="&lt;font color=&quot;#333333&quot; face=&quot;pingfang sc, lantinghei sc, microsoft yahei, hiragino sans gb, microsoft sans serif, wenquanyi micro hei, helvetica, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px&quot;&gt;vmlinux.bin.gz&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="890" y="1020" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-47" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="pdc_onV0V6zntlovhrwn-43" target="pdc_onV0V6zntlovhrwn-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-43" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;vmlinux&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="640" y="1020" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-49" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="pdc_onV0V6zntlovhrwn-46" target="pdc_onV0V6zntlovhrwn-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-46" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Linux 内核&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="90" y="1020" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-54" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="pdc_onV0V6zntlovhrwn-48" target="pdc_onV0V6zntlovhrwn-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-48" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;startup_64&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="90" y="1210" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-51" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="pdc_onV0V6zntlovhrwn-50" target="pdc_onV0V6zntlovhrwn-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-50" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;head_64.S&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="90" y="1340" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-52" value="&lt;font style=&quot;font-size: 18px&quot;&gt;定义&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="695" y="1290" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-56" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="pdc_onV0V6zntlovhrwn-53" target="pdc_onV0V6zntlovhrwn-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-53" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;secondary_startup_64&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="350" y="1210" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-62" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="pdc_onV0V6zntlovhrwn-55" target="pdc_onV0V6zntlovhrwn-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-55" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;x86_64_start_kernel&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="650" y="1210" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-59" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="pdc_onV0V6zntlovhrwn-58" target="pdc_onV0V6zntlovhrwn-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-58" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;head64.c&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="650" y="1340" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-60" value="&lt;font style=&quot;font-size: 18px&quot;&gt;定义&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="190" y="1310" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-64" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="pdc_onV0V6zntlovhrwn-61" target="pdc_onV0V6zntlovhrwn-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-61" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;x86_64_start_reservations&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="920" y="1210" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-63" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;start_kernel()&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="920" y="1490" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-67" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="xzJysl5ABUnKm8ckFdPG-1" source="pdc_onV0V6zntlovhrwn-66" target="pdc_onV0V6zntlovhrwn-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-66" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;main.c&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="650" y="1430" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-68" value="&lt;font style=&quot;font-size: 18px&quot;&gt;定义&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="880" y="1440" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pdc_onV0V6zntlovhrwn-69" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;pingfang sc&amp;#34; , &amp;#34;lantinghei sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft sans serif&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , &amp;#34;helvetica&amp;#34; , sans-serif ; font-style: normal ; font-weight: 300 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; display: inline ; float: none&quot;&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;内核的开始&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#1D3557;" vertex="1" parent="xzJysl5ABUnKm8ckFdPG-1">
+          <mxGeometry x="980" y="1570" width="180" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
